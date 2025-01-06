@@ -2,6 +2,7 @@
 
 
 # go through the array and try to find the target - nums[i] in the array
+# time complexity O(n) and space complexity O(n)
 
 def index_of_two_numbers_to_target(nums,k):
     if not nums:
